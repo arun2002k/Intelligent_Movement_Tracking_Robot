@@ -17,3 +17,11 @@ Install Arduino ide in your pc from Microsoft store or from website.
 - Battery powered 
 - Top speed upto 11.3 km/hr
 
+
+## Screenshots
+
+![Image](https://github.com/arun2002k/Intelligent_Movement_Tracking_Robot/assets/85438554/967ef079-7502-457d-96a2-2a81a4bcf945)
+
+![Image](https://github.com/arun2002k/Intelligent_Movement_Tracking_Robot/assets/85438554/68719d7b-1e5d-4508-9614-0e0746f8ea0a)
+
+
